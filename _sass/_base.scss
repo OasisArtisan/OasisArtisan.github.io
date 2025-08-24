@@ -436,6 +436,29 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  .small-icons {
+    font-size: 2rem;
+
+    a {
+      img {
+        width: 1.6rem;
+        height: 1.6rem;
+        margin-bottom: 1rem;
+      }
+
+      svg {
+        width: 1.75rem;
+        height: 2rem;
+        margin-bottom: 0.25rem;
+
+        image {
+          width: 1.75rem;
+          height: 1.75rem;
+        }
+      }
+    }
+  }
+
   .contact-note {
     font-size: 0.8rem;
   }

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - OasisArtisan
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RayFronts/RayFronts
+  - MapItAnywhere/MapItAnywhere
+  - p4lang/p4app-switchML
+  - OasisArtisan/LIVECell-Semantic-Segmentation
+  - OasisArtisan/OasisLight-ServerManager
