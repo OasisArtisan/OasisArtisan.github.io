@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-16 00:00:00-0000
+date: 2026-02-2 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-<a href='https://rayfronts.github.io/'>RayFronts</a> is accepted to IROS25. See you in Hangzhou !!
+🔥 <a href='https://raven-semantic.github.io/'>RAVEN</a> is accepted to ICRA 2026 !

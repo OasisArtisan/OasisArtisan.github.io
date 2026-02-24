@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-26 06:42:00-0400
+date: 2025-06-16 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-<a href='https://mapitanywhere.github.io/'>MIA</a> is accepted to NeurIPS 2024 Dataset and Benchmarks !
+<a href='https://rayfronts.github.io/'>RayFronts</a> is accepted to IROS25. See you in Hangzhou !!
