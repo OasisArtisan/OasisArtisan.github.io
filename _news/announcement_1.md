@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🔥🔥 <a href='https://arxiv.org/abs/2511.19704'>RADSeg</a> is accepted to CVPR'26 Findings. SOTA efficient OVSS !
+🔥🔥 <a href='https://radseg-ovss.github.io/'>RADSeg</a> is accepted to CVPR'26 Findings. SOTA efficient OVSS !
