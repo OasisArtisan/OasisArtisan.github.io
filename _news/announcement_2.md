@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🔥 <a href='https://raven-semantic.github.io/'>RAVEN</a> is accepted to ICRA 2026 !
+🔥 <a href='https://raven-semantic.github.io/'>RAVEN</a> is accepted to ICRA 2026 as an <b>Oral</b> (8.3% of accepted papers) !
